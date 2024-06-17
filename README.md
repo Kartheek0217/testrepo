@@ -25,3 +25,8 @@ git restore --staged *
 
 step-6
 git commit -m "git procedure step by step" ==> commit message could be any thing.
+
+
+
+
+step-9

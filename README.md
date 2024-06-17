@@ -37,3 +37,6 @@ git stash
 
 step-9
 git pull origin newBranch
+
+step-9
+git stash apply
